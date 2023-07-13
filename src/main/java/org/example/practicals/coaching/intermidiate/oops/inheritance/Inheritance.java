@@ -1,5 +1,7 @@
 package org.example.practicals.coaching.intermidiate.oops.inheritance;
 
+import org.example.practicals.coaching.intermidiate.oops.inheritance.model.Subclass;
+
 public class Inheritance {
     /*
         Inheriting all the members(properties and methods) of a super class into subclass

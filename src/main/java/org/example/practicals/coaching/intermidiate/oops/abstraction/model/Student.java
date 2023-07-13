@@ -1,4 +1,4 @@
-package org.example.practicals.coaching.intermidiate.oops.abstraction.pojo.model;
+package org.example.practicals.coaching.intermidiate.oops.abstraction.model;
 
 
 // POJO - Plain Old Java Object
@@ -43,5 +43,9 @@ public class Student {
 
     public void setStudentAge(String studentAge) {
         this.studentAge = studentAge;
+    }
+
+    public void status(String status) {
+        System.out.println("Student's status: " + status);
     }
 }
